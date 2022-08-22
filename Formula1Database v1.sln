@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formula1Database v1", "Formula1Database v1\Formula1Database v1.csproj", "{D609FCD2-411F-45B3-B721-37621E6DC785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D609FCD2-411F-45B3-B721-37621E6DC785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D609FCD2-411F-45B3-B721-37621E6DC785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D609FCD2-411F-45B3-B721-37621E6DC785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D609FCD2-411F-45B3-B721-37621E6DC785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C271C7-CFDA-4555-8806-2303E45D64BC}
+	EndGlobalSection
+EndGlobal

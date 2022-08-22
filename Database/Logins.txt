@@ -1,0 +1,16 @@
+Oracle:
+Connection Name: COMPX323 F1 Test1
+Username: COMPX323_26
+Password: DasqWQBhbR
+Hostname: oracle.cms.waikato.ac.nz
+Port: 1521
+Service Name: teaching
+
+MongoDB:
+Username: compx323-26
+Password: dz1o88Ap7g
+
+Drivers for Big Database in Participates:
+-Brian Whitmore
+-Faun Quaintance
+-Dyna Duberry
